@@ -73,7 +73,7 @@ Execute the below command to check whether your node is running or not
             }
         ],
         "number_of_nodes": -1,
-        "timeout": 2
+        "timeout": 10
     }
 }'
 ```
